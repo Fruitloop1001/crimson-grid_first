@@ -373,7 +373,7 @@ GLOBAL_LIST_INIT(rarity_loot, list(//rare: really good items
 		) = 1,
 
 	list(//misc
-		/obj/effect/spawner/random/occult/artifact = 3, // DARKPACK EDIT ADD
+		/obj/effect/spawner/random/occult/artifact = 1, // DARKPACK EDIT ADD
 		/obj/item/book/granter/crafting_recipe/dusting/pipegun_prime = 1,
 		/obj/item/book/granter/crafting_recipe/trash_cannon = 1,
 		/* // DARKPACK EDIT REMOVAL
@@ -414,12 +414,12 @@ GLOBAL_LIST_INIT(rarity_loot, list(//rare: really good items
 	))
 */
 //Maintenance loot spawner pools
-#define maint_trash_weight 4500
-#define maint_common_weight 4500
-#define maint_uncommon_weight 900
-#define maint_rarity_weight 99
+#define maint_trash_weight 450
+#define maint_common_weight 450
+#define maint_uncommon_weight 100
+#define maint_rarity_weight 10
 // #define maint_oddity_weight 1 //1 out of 10,000 would give metastation (180 spawns) a 2 in 111 chance of spawning an oddity per round, similar to xeno egg
-#define maint_holiday_weight 3500 // When holiday loot is enabled, it'll give every loot item a 25% chance of being a holiday item
+#define maint_holiday_weight 350 // When holiday loot is enabled, it'll give every loot item a 25% chance of being a holiday item
 
 //Loot pool used by default maintenance loot spawners
 GLOBAL_LIST_INIT(maintenance_loot, list(

@@ -54,10 +54,10 @@
 	var/effective_lootcount = spawn_loot_count
 
 	if(HAS_TRAIT(SSstation, STATION_TRAIT_FILLED_MAINT))
-		effective_lootcount = FLOOR(spawn_loot_count * 1.5, 1)
+		effective_lootcount = FLOOR(spawn_loot_count * 1.5, 2)
 
 	else if(HAS_TRAIT(SSstation, STATION_TRAIT_EMPTY_MAINT))
-		effective_lootcount = FLOOR(spawn_loot_count * 1.5, 1)
+		effective_lootcount = FLOOR(spawn_loot_count * 1.5, 2)
 
 	return effective_lootcount
 
