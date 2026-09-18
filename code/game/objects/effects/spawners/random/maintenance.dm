@@ -57,7 +57,7 @@
 		effective_lootcount = FLOOR(spawn_loot_count * 1.5, 1)
 
 	else if(HAS_TRAIT(SSstation, STATION_TRAIT_EMPTY_MAINT))
-		effective_lootcount = FLOOR(spawn_loot_count * 0.5, 1)
+		effective_lootcount = FLOOR(spawn_loot_count * 1.5, 1)
 
 	return effective_lootcount
 
