@@ -27,6 +27,7 @@
 		/obj/effect/spawner/random/trash/food_packaging = 10,
 		/obj/effect/spawner/random/entertainment/money = 10,
 		/obj/effect/spawner/random/trash/crushed_can = 10,
+		///obj/item/shard/plasma = 5, CRIMSON EDIT REMOVAL - Making Garbage Better
 		/obj/item/reagent_containers/applicator/pill/maintenance = 5,
 		/obj/item/mail/junkmail = 5,
 		/obj/effect/spawner/random/food_or_drink/snack = 5,
@@ -40,6 +41,7 @@
 		/obj/item/food/grown/cannabis = 1,
 		/obj/item/rag = 1,
 		/obj/effect/spawner/random/entertainment/drugs = 1,
+		///obj/item/modular_computer/pda = 1, CRIMSON EDIT REMOVAL - Making Garbage Better
 		/obj/item/reagent_containers/syringe = 1,
 		/obj/effect/spawner/random/entertainment/cigar = 1,
 		/obj/item/stack/ore/gold = 1,
