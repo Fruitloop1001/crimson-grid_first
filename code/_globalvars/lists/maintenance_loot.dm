@@ -70,7 +70,7 @@ GLOBAL_LIST_INIT(trash_loot, list(//junk: useless, very easy to get, or ghetto c
 		/obj/item/stock_parts/micro_laser = 1,
 		/obj/item/stock_parts/scanning_module = 1,
 		) = 1,
-	*/ END OF CRIMSON EDIT REMOVAL - Making Garbage Better
+	*/ // END OF CRIMSON EDIT REMOVAL - Making Garbage Better
 	))
 
 
