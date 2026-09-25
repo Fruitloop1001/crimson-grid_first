@@ -31,6 +31,7 @@ GLOBAL_LIST_INIT(trash_loot, list(//junk: useless, very easy to get, or ghetto c
 		// DARKPACK ADD CHANGE END
 		/obj/item/trash/flare = 1,
 		/obj/item/trash/candle = 1,
+
 		/obj/item/c_tube = 1,
 		///obj/item/disk/data = 1, CRIMSON EDIT REMOVAL - Making Garbage Better
 		/obj/item/folder/yellow = 1,
@@ -53,11 +54,13 @@ GLOBAL_LIST_INIT(trash_loot, list(//junk: useless, very easy to get, or ghetto c
 		/obj/item/light/bulb = 1,
 		/obj/item/light/tube = 1,
 		/obj/item/reagent_containers/cup/glass/drinkingglass = 1,
+
 		/obj/item/airlock_painter = 1,
 		/obj/item/airlock_painter/decal = 2,
 		/obj/item/clothing/mask/breath = 1,
 		/obj/item/rack_parts = 1,
 		/obj/item/shard = 1,
+
 		/obj/item/reagent_containers/applicator/pill/maintenance/achievement = 1,
 		/obj/item/toy/eightball = 1,
 		/obj/item/trash/popcorn = 1, // CRIMSON EDIT ADD - Making Garbage Better
