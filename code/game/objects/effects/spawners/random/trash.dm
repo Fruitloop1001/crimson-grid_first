@@ -16,6 +16,7 @@
 		/obj/item/reagent_containers/syringe = 5,
 		/obj/item/light/tube/broken = 3,
 		/obj/item/food/deadmouse = 2,
+		///obj/item/trash/tube/broken = 1, CRIMSON EDIT REMOVAL - Making Garbage Better
 		/obj/item/trash/candle = 1,
 	)
 	// DARKPACK EDIT END
