@@ -293,7 +293,7 @@ GLOBAL_LIST_INIT(uncommon_loot, list(//uncommon: useful items
 		/obj/effect/spawner/random/mod/maint = 3,
 		/obj/item/mod/construction/broken_core = 1,
 		) = 4,
-*/ END OF CRIMSON EDIT REMOVAL - Making Garbage Better
+*/ //END OF CRIMSON EDIT REMOVAL - Making Garbage Better
 	list(//music
 		/obj/item/instrument/accordion = 5,
 		/obj/item/instrument/banjo = 5,
